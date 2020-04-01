@@ -1,2 +1,2 @@
-web: java -jar target/otp-1.4.0.jar
+web: java -jar otp.jar --build graphs/current
 
