@@ -1,2 +1,1 @@
-web: java -jar otp.jar --build graphs/current
-
+web: java -jar otp.jar --build . --inMemory
